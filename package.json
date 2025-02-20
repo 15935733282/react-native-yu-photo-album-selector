@@ -1,6 +1,6 @@
 {
   "name": "react-native-yu-photo-album-selector",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "react-native的相册选择组件",
   "main": "index.js",
   "types": "index.d.ts",
