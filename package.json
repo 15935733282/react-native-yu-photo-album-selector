@@ -1,0 +1,29 @@
+{
+  "name": "react-native-yu-photo-album-selector",
+  "version": "0.0.2",
+  "description": "react-native的相册选择组件",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "dependencies": {
+    "react-native-reanimated": "latest",
+    "react-native-safe-area-context": "^4.11.1",
+    "@react-native-camera-roll/camera-roll": "^7.9.0"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.75.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "react-native",
+    "photo",
+    "album"
+  ],
+  "author": "hbyu",
+  "license": "MIT"
+}
